@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hpJefUGUj6Qm9jhgPCIPN0Os2N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/lib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="" />
+      <created>1600702196185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600702196185</updated>
+      <workItem from="1600702197193" duration="909000" />
+      <workItem from="1600703119873" duration="277000" />
+      <workItem from="1600703405943" duration="1377000" />
+      <workItem from="1600744303223" duration="4785000" />
+      <workItem from="1600771982968" duration="14536000" />
+      <workItem from="1600826915033" duration="991000" />
+      <workItem from="1601360505780" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="424" key="#ESLint" timestamp="1600704407284">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="830" y="424" key="#ESLint/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600704407284" />
+    <state x="424" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600703496033">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="424" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600703496033" />
+    <state x="724" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600788833419">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="724" y="334" key="#com.intellij.fileTypes.FileTypeChooser/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600788833419" />
+    <state x="579" y="142" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600786131571">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="579" y="142" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600786131571" />
+    <state x="557" y="77" width="806" height="896" key="find.popup" timestamp="1600791809233">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="418" y="67" width="604" height="735" key="find.popup/0.23.1440.824@0.23.1440.824" timestamp="1600776304643" />
+    <state x="557" y="77" width="806" height="896" key="find.popup/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600791809233" />
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1600788133222">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600788133222" />
+  </component>
+</project>
