@@ -9,6 +9,8 @@ const app = bottender({
     dev: process.env.NODE_ENV !== 'production',
 });
 
+console.log('[INFO] running on \"'+process.env.NODE_ENV+'\" mode')
+
 const port = Number(process.env.PORT) || 80;
 
 // the request handler of the bottender app
@@ -29,6 +31,7 @@ app.prepare().then(() => {
     server.set('view engine', 'ejs');
 
     // your custom route
+    server.use(express.static('public'));
 
     server.use('/web',webRouter)
 

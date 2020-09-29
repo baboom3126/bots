@@ -78,7 +78,7 @@ async function flexMsgForWord(theWord,rawWord, sizeOfChi, sizeOfSen) {
                         "type": "text",
                         "text": rawWord.chi_sen_arr[i],
                         "size": "sm",
-                        "color": "#555555",
+                        "color": "#0580e8",
                         "decoration": "none",
                         "wrap": true
                     }

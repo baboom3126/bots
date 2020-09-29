@@ -20,6 +20,5 @@
     "axios": "^0.20.0"
   },
   "devDependencies": {
-    "axios": "^0.20.0"
   }
 }

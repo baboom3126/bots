@@ -11,7 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottender.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/bottender.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/handler/messageHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handler/messageHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/message/flexMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/message/flexMsg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/message/pushMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/message/pushMsg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,9 +59,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/lib" />
@@ -69,7 +85,8 @@
       <workItem from="1600744303223" duration="4785000" />
       <workItem from="1600771982968" duration="14536000" />
       <workItem from="1600826915033" duration="991000" />
-      <workItem from="1601360505780" duration="820000" />
+      <workItem from="1601360505780" duration="6618000" />
+      <workItem from="1601379354594" duration="769000" />
     </task>
     <servers />
   </component>
@@ -101,14 +118,22 @@
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="724" y="334" key="#com.intellij.fileTypes.FileTypeChooser/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600788833419" />
+    <state x="344" y="106" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1601365271750">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="344" y="106" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.824@0.23.1440.824" timestamp="1601365271750" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1601365312032">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1601365312032" />
     <state x="579" y="142" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600786131571">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="579" y="142" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600786131571" />
-    <state x="557" y="77" width="806" height="896" key="find.popup" timestamp="1600791809233">
-      <screen x="0" y="23" width="1920" height="1004" />
+    <state x="418" y="67" width="604" height="735" key="find.popup" timestamp="1601365262305">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="418" y="67" width="604" height="735" key="find.popup/0.23.1440.824@0.23.1440.824" timestamp="1600776304643" />
+    <state x="418" y="67" width="604" height="735" key="find.popup/0.23.1440.824@0.23.1440.824" timestamp="1601365262305" />
     <state x="557" y="77" width="806" height="896" key="find.popup/1920.203.1440.877/0.23.1920.1004@0.23.1920.1004" timestamp="1600791809233" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1600788133222">
       <screen x="0" y="23" width="1920" height="1004" />
