@@ -41,7 +41,7 @@ async function flexMsgForWord(theWord,rawWord, sizeOfChi, sizeOfSen) {
                         "size": "sm",
                         "color": "#555555",
                         "flex": 0,
-                        "text": (i+i)+'. '+rawWord.chi_arr[i],
+                        "text": parseInt(i)+1+'. '+rawWord.chi_arr[i],
                         "align": "start",
                         "wrap": true
                     }
