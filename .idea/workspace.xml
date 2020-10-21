@@ -11,19 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handler/statusHandler.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bottender.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/bottender.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/handler/messageHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handler/messageHandler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lib/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/firebase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/message/flexMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/message/flexMsg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/message/pushMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/message/pushMsg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +66,19 @@
       <recent name="$PROJECT_DIR$/src/lib" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +95,8 @@
       <workItem from="1600826915033" duration="991000" />
       <workItem from="1601360505780" duration="6618000" />
       <workItem from="1601379354594" duration="769000" />
+      <workItem from="1603214067115" duration="603000" />
+      <workItem from="1603245717084" duration="2804000" />
     </task>
     <servers />
   </component>

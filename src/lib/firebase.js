@@ -17,7 +17,7 @@ async function dbRead(path) {
 
 // write a new data in path under DB
 async function dbWrite(path, data) {
-    console.log('[INFO] dbWrite path: '+path)
+    console.log('[INFO] dbWrite path: '+path+' data:'+JSON.stringify(data))
 
     const url = `https://${config.firebaseID}.firebaseio.com/${path}.json?auth=${config.firebaseSecret}`;
     try {
