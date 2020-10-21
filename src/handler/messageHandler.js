@@ -34,6 +34,9 @@ async function messageHandler(context) {
             await context.sendText(replayText);
         }
     }
+    if(theMsg == "help"){
+        await context.sendText("[我要吃早餐]\n[清空我的]\n[清空全部]\n[all]");
+    }
 
     let currentStatus = await dbRead(`/breakfast/${context.event.source.userId}/status`);
 

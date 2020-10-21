@@ -10,16 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/handler/statusHandler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/handler/messageHandler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/handler/messageHandler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/firebase.js" afterDir="false" />
-    </list>
+    <list default="true" id="bde5c19e-c6c1-494e-b151-5060bca9a396" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +87,7 @@
       <workItem from="1601360505780" duration="6618000" />
       <workItem from="1601379354594" duration="769000" />
       <workItem from="1603214067115" duration="603000" />
-      <workItem from="1603245717084" duration="2804000" />
+      <workItem from="1603245717084" duration="3126000" />
     </task>
     <servers />
   </component>
