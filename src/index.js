@@ -19,10 +19,13 @@ async function HandleLine(context) {
     console.log('[INFO] src/index.js');
     console.log('[INFO] '+JSON.stringify(context.event.rawEvent));
 
-    let randomNum = (Math.floor(Math.random() * 1000)).toString()
-    let timestamp = new Date().getTime()
 
-    await dbWrite(`user/${context.event.source.userId}/${randomNum+'s'+timestamp}`, context.event.rawEvent)
+
+    ////save message to firebase
+    let randomNum = (Math.floor(Math.random() * 1000)).toString();
+    let timestamp = new Date().getTime();
+
+    await dbWrite(`messages/${context.event.source.userId}/${randomNum+'s'+timestamp}`, context.event.rawEvent);
 
     return router([
         line.message(messageHandler),

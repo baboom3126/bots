@@ -4,6 +4,9 @@ const { bottender } = require('bottender');
 
 
 var webRouter = require('./routes/web');
+var indexRouter = require('./routes/index');
+var apiRouter = require('./routes/api');
+
 
 const app = bottender({
     dev: process.env.NODE_ENV !== 'production',
@@ -33,8 +36,11 @@ app.prepare().then(() => {
     // your custom route
     server.use(express.static('public'));
 
-    server.use('/web',webRouter)
+    server.use('/',indexRouter);
 
+    server.use('/web',webRouter);
+
+    server.use('/api',apiRouter);
 
     server.get('/api', (req, res) => {
         res.json({ ok: true });
