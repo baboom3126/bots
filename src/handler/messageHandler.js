@@ -29,7 +29,7 @@ async function messageHandler(context) {
         if (list) {
             let replayText = "";
             for (let i of Object.keys(list)) {
-                replayText += (i + ' ' + list[i] + '\n');
+                replayText += (list[i].name + ' ' + list[i].msg + '\n');
             }
             await context.sendText(replayText);
         }

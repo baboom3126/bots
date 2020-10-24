@@ -12,8 +12,9 @@ async function statusHandler(status, context) {
     } else if (status == "2") {
         await dbWrite(`/breakfast/${context.event.source.userId}/status`, "3")
         let data = {}
-        data[profile.displayName] = context.event.text
-        await dbWrite(`/breakfast/list/`, data)
+        data.name = profile.displayName
+        data.msg = context.event.text
+        await dbWrite(`/breakfast/list/${context.event.source.userId}`, data)
         await context.sendText(`${profile.displayName} ${context.event.text}`)
 
     }
