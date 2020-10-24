@@ -40,7 +40,6 @@ async function messageHandler(context) {
 
     let currentStatus = await dbRead(`/breakfast/${context.event.source.userId}/status`);
 
-
     await statusHandler(currentStatus, context);
 
 }
