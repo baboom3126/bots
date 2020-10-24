@@ -19,6 +19,7 @@ async function statusHandler(status, context) {
             await context.sendText(`${profile.displayName} ${context.event.text}`)
         } else {
             await context.sendText("僅支援文字訊息^^")
+            await dbWrite(`/breakfast/${context.event.source.userId}/status`, "0")
         }
     }
 
